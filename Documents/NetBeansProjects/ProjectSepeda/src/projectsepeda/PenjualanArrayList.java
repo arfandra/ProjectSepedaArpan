@@ -27,7 +27,8 @@ public static void main(String[] args) {
    ans = input.next();
  
    if(ans.equals("n")){
-   System.out.println("program selesai");
+   System.out.println("program selesai...");
+    System.out.println("Terima Kasih..");
    }
   }
  }
