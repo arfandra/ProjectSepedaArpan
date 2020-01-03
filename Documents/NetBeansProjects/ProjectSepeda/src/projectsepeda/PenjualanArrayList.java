@@ -24,7 +24,7 @@ public static void main(String[] args) {
    obj.display();
    obj.clear();
    System.out.print("Ingin Lanjut "+k);
-   ans = input.next();
+   ans = "n";
  
    if(ans.equals("n")){
    System.out.println("program selesai...");
